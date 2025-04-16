@@ -1,0 +1,10 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "typeCheckingMode": "basic",
+  "reportMissingImports": false,
+  "python.analysis.extraPaths": [
+    "./.venv/lib/python3.10/site-packages"
+  ]
+}
+
